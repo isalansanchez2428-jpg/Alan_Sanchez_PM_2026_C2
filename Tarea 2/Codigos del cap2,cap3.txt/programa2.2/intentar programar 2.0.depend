@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1779678910 source:c:\users\centr\downloads\intentar programar 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
