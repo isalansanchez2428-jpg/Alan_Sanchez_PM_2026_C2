@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781237775 source:c:\users\centr\downloads\programatipoloteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
