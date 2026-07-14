@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno id="1">
+        <nombre>Carlos</nombre>
+        <apellido>Gomez</apellido>
+        <promedio>8.5</promedio>
+        <materia>Matematicas</materia>
+    </alumno>
+    <alumno id="2">
+        <nombre>Ana</nombre>
+        <apellido>Martinez</apellido>
+        <promedio>9.2</promedio>
+        <materia>Historia</materia>
+    </alumno>
+    <alumno id="3">
+        <nombre>Luis</nombre>
+        <apellido>Rodriguez</apellido>
+        <promedio>7.0</promedio>
+        <materia>Fisica</materia>
+    </alumno>
+    <alumno id="4">
+        <nombre>Sofia</nombre>
+        <apellido>Lopez</apellido>
+        <promedio>9.8</promedio>
+        <materia>Quimica</materia>
+    </alumno>
+    <alumno id="5">
+        <nombre>Diego</nombre>
+        <apellido>Perez</apellido>
+        <promedio>6.5</promedio>
+        <materia>Literatura</materia>
+    </alumno>
+    <alumno id="6">
+        <nombre>Maria</nombre>
+        <apellido>Garcia</apellido>
+        <promedio>8.9</promedio>
+        <materia>Matematicas</materia>
+    </alumno>
+    <alumno id="7">
+        <nombre>Juan</nombre>
+        <apellido>Sanchez</apellido>
+        <promedio>7.4</promedio>
+        <materia>Biologia</materia>
+    </alumno>
+    <alumno id="8">
+        <nombre>Laura</nombre>
+        <apellido>Diaz</apellido>
+        <promedio>9.5</promedio>
+        <materia>Historia</materia>
+    </alumno>
+    <alumno id="9">
+        <nombre>Pedro</nombre>
+        <apellido>Fernandez</apellido>
+        <promedio>8.2</promedio>
+        <materia>Fisica</materia>
+    </alumno>
+    <alumno id="10">
+        <nombre>Elena</nombre>
+        <apellido>Romero</apellido>
+        <promedio>9.0</promedio>
+        <materia>Quimica</materia>
+    </alumno>
+</alumnos>

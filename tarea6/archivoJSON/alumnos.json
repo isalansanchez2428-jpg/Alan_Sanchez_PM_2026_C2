@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Carlos",
+    "apellido": "Gomez",
+    "promedio": 8.5,
+    "materia": "Matematicas"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Martinez",
+    "promedio": 9.2,
+    "materia": "Historia"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Rodriguez",
+    "promedio": 7.0,
+    "materia": "Fisica"
+  },
+  {
+    "nombre": "Sofia",
+    "apellido": "Lopez",
+    "promedio": 9.8,
+    "materia": "Quimica"
+  },
+  {
+    "nombre": "Diego",
+    "apellido": "Perez",
+    "promedio": 6.5,
+    "materia": "Literatura"
+  },
+  {
+    "nombre": "Maria",
+    "apellido": "Garcia",
+    "promedio": 8.9,
+    "materia": "Matematicas"
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Sanchez",
+    "promedio": 7.4,
+    "materia": "Biologia"
+  },
+  {
+    "nombre": "Laura",
+    "apellido": "Diaz",
+    "promedio": 9.5,
+    "materia": "Historia"
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "Fernandez",
+    "promedio": 8.2,
+    "materia": "Fisica"
+  },
+  {
+    "nombre": "Elena",
+    "apellido": "Romero",
+    "promedio": 9.0,
+    "materia": "Quimica"
+  }
+]
