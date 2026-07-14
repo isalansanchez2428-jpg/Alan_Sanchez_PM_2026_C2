@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1782790925 source:c:\users\centr\downloads\programa7.19\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

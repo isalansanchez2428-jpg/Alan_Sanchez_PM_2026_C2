@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1782838570 source:c:\users\centr\downloads\programa8.3\main.c
+	<stdio.h>
+	<string.h>
+

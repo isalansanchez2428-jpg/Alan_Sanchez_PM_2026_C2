@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1782085373 source:c:\users\centr\downloads\programa7.12\main.c
+	<stdio.h>
+	<ctype.h>
+
