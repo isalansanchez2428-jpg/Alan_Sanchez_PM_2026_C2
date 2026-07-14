@@ -1,0 +1,9 @@
+--- Movimientos para 3 discos ---
+a -> b
+a -> c
+b -> c
+a -> b
+c -> a
+c -> b
+a -> b
+Cantidad de movimientos hechos: 7
