@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matriz_riesgos>
+  <riesgo>
+    <nombre>espionaje sobre proyectos claves</nombre>
+    <F>4</F>
+    <S>5</S>
+    <P>4</P>
+    <E>3</E>
+    <A>4</A>
+    <V>3</V>
+    <I>20</I>
+    <D>12</D>
+    <C>32</C>
+    <PB>12</PB>
+    <ER>384</ER>
+  </riesgo>
+</matriz_riesgos>

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1786760512 source:c:\users\isala\downloads\mosler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cJSON.h"
+
+1786759045 c:\users\isala\downloads\mosler\cjson.h
+	<stddef.h>
+
+1786759028 source:c:\users\isala\downloads\mosler\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<float.h>
+	<locale.h>
+	"cJSON.h"
+
